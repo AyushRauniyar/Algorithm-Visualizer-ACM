@@ -53,6 +53,10 @@
   text-decoration: none;
   
 }
+#tittle {
+color: rgb(90, 0, 90) ;
+}
+
 #title {
   text-align: center;
   font-size: 2rem;
